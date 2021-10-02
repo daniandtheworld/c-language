@@ -1,6 +1,6 @@
 # clanguage
 
-Juntei a vergonha na cara pra aprender a usar GitHub e a necessidade de estudar C e *voilá*...
+Juntei a vergonha na cara para aprender a usar GitHub + a necessidade de estudar C e *voilá*...
 
 Eu ainda não tenho idéia de como isso aqui vai ficar, mas seguimos.
 
