@@ -8,5 +8,5 @@ ________________________________________________________________________________
 
 Meus estudos se baseiam em PDFs cedidos por uma professora da minha faculdade (UFF) e 2 canais de YouTube:
 * PDFs: Sem link por enquanto. hue
-* Canal do Prof. Eduardo Casavella: https://www.youtube.com/channel/UCjqzjJtvFRtUL8nmoDb2wYg
-* Canal FreeCodeCamp: https://www.youtube.com/c/Freecodecamp
+* [Canal do Prof. Eduardo Casavella](https://www.youtube.com/channel/UCjqzjJtvFRtUL8nmoDb2wYg)
+* [Canal FreeCodeCamp](https://www.youtube.com/c/Freecodecamp)
