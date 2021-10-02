@@ -1,4 +1,4 @@
-# clanguage
+# c-language
 
 Juntei a vergonha na cara para aprender a usar GitHub + a necessidade de estudar C e *voilá*...
 
