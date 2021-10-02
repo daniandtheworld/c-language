@@ -2,11 +2,11 @@
 
 Juntei a vergonha na cara pra aprender a usar GitHub e a necessidade de estudar C e *voilá*...
 
-Eu ainda não tenho ideia do que vou fazer aqui, mas seguimos.
+Eu ainda não tenho idéia de como isso aqui vai ficar, mas seguimos.
 
 ____________________________________________________________________________________________________________________________
 
-Meus estudos se baseiam em PDF's de uma professora da minha faculdade e 2 canais de YouTube:
-* PDFs: Em breve.
+Meus estudos se baseiam em PDFs cedidos por uma professora da minha faculdade (UFF) e 2 canais de YouTube:
+* PDFs: Sem link por enquanto. hue
 * Canal do Prof. Eduardo Casavella: https://www.youtube.com/channel/UCjqzjJtvFRtUL8nmoDb2wYg
 * Canal FreeCodeCamp: https://www.youtube.com/c/Freecodecamp
