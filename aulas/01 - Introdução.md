@@ -2,7 +2,7 @@
 ## Variáveis, entrada e saída de dados, operadores aritméticos na linguagem C.
 
 
-Clique [aqui](https://www.youtube.com/watch?v=ELQPwusHzrk) para assistir a aula 01.
+Clique [aqui](https://www.youtube.com/watch?v=ELQPwusHzrk) para assistir a primeira aula do prof. Eduardo Casavella.
 ______________________________________________________________________________________
 
 
