@@ -6,7 +6,7 @@ Clique [aqui](https://www.youtube.com/watch?v=ELQPwusHzrk) para assistir a aula 
 
 
 
-# Resumo da Aula 01
+# Resumo
 ______________________________________________________________________________________
 
 **O  QUE É VARIÁVEL?**
