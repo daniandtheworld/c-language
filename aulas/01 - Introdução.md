@@ -3,7 +3,7 @@
 
 
 Clique [aqui](https://www.youtube.com/watch?v=ELQPwusHzrk) para assistir a aula 01.
-
+______________________________________________________________________________________
 
 
 # Resumo
