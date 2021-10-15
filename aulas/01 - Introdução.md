@@ -17,5 +17,7 @@ __char:__ Variável de caracteres.
 __double:__ Variável que comporta mais casas decimais do que uma variável float.
 
 
+
+
 - __PRINTF:__ Printa algo na tela.
 - __SCANF:__ Armazena valor no endereço de uma variável.
