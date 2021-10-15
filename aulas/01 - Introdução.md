@@ -18,5 +18,4 @@ __double:__ Variável que comporta mais casas decimais do que uma variável floa
 
 
 - __PRINTF:__ Printa algo na tela.
-- 
 - __SCANF:__ Armazena valor no endereço de uma variável.
