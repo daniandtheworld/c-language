@@ -9,5 +9,14 @@ ________________________________________________________________________________
 **OS TIPOS DE VARIÁVEIS:**
 
 __int:__ Variável de número inteiro.
+
 __float:__ Variável de número real. 
-__char:__ Variável de 1 caracter. 
+
+__char:__ Variável de caracteres.
+
+__double:__ Variável que comporta mais casas decimais do que uma variável float.
+
+
+- __PRINTF:__ Printa algo na tela.
+- 
+- __SCANF:__ Armazena valor no endereço de uma variável.
