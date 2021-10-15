@@ -1,6 +1,6 @@
 # Aula 01: Introdução à Linguagem C.
 ## Variáveis, entrada e saída de dados, operadores aritméticos na linguagem C.
-_
+
 
 **O  QUE É VARIÁVEL?**
 
