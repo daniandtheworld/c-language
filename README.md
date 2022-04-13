@@ -2,7 +2,7 @@
 
 Juntei a vergonha na cara para aprender a usar GitHub + a necessidade de estudar C e *voilá*...
 
-Eu ainda não tenho idéia de como isso aqui vai ficar, mas seguimos.
+Eu ainda não tenho ideia de como isso aqui vai ficar, mas seguimos.
 
 ____________________________________________________________________________________________________________________________
 
